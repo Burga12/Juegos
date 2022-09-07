@@ -3,7 +3,7 @@
 #include <string.h>
 #include <stdio.h>
 #include <time.h>
-#define cls system("clear");
+#define cls system("cls");
 
 using namespace std;
 
